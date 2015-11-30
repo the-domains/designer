@@ -2,6 +2,7 @@ name: designer
 favicon: null
 layout_spectrum: 0.9205132331699133
 typography_spectrum: 0.515959347365424
+title: 'Site for the UX Designer '
 cta:
   domain: null
   bucket: null
