@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[designer]]></title>
-        <description><![CDATA[designer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Site for the UX Designer ]]></title>
+        <description><![CDATA[Site for the UX Designer ]]></description>
+        <link>https://thegrid.ai/designer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 14:52:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 15:16:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/designer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32f77d06-68ee-47c2-a3ef-b04af4814881.jpg">]]></description>
-            <link>undefined768d4be3-c551-46c9-94c6-eab09ed137cb/index.html</link>
+            <link>https://thegrid.ai/designer/768d4be3-c551-46c9-94c6-eab09ed137cb/index.html</link>
             <guid isPermaLink="false">768d4be3-c551-46c9-94c6-eab09ed137cb</guid>
-            <pubDate>Mon, 30 Nov 2015 14:52:17 GMT</pubDate>
+            <pubDate>Mon, 30 Nov 2015 15:16:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
