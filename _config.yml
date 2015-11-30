@@ -1,6 +1,6 @@
 name: designer
 favicon: null
-layout_spectrum: 0.9205132331699133
+layout_spectrum: 1
 typography_spectrum: 0.515959347365424
 title: 'Site for the UX Designer '
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.12758409674279392
-  lightness: 0.3900923931505531
-  saturation: 0.16736021195538342
+  lightness: 0.4375
+  saturation: 0.5625
   rhythmicContrast: 0.24879219755530357
 purpose: []
